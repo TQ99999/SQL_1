@@ -5,3 +5,5 @@ git push origin master
 
 Download:
 git pull
+
+To use github to push and pull project(description)

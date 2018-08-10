@@ -10,3 +10,4 @@ To use github to push and pull project(description)
 
 Python:
 activate (enable virtual environment)
+deactivate (disable virtual environment)
